@@ -1,0 +1,7 @@
+MEU_PORTAL_MATEMATICO/Calculadora
+MEU_PORTAL_MATEMATICO/Derivada2
+MEU_PORTAL_MATEMATICO/DerivadaNumerica
+MEU_PORTAL_MATEMATICO/Calculadora/Integral_numerica
+__pycache__/
+.venv/
+.DS_Store
